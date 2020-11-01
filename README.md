@@ -21,4 +21,4 @@ Planned features include:
 This is a very ambitious list of features. This is a project for me to expand my skills as a programmer.
 I am not certain that I will be able to create this, but it will be fun nontheless.
 
-  
+ps. Before anyone asks, the name of tha app is infact inspired by the protagonst of Horizon Zero Dawn.
